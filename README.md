@@ -34,7 +34,10 @@ Use the `schema.sql` file in the `db` folder to create your database with MySQL 
 ## Usage
 
 
-![ecom back end example](./Assets/Untitled_%20May%2024%2C%202022%2012_35%20PM.gif)
+![ecom back end example](./Assets/Untitled_%20May%2027%2C%202022%202_58%20PM.gif)
+
+
+https://drive.google.com/file/d/1e-E02AZdS0cESbEdHrd51Cesw5_ZPO-Q/view
         
 ## Credits
 Hayden Kiltoff
